@@ -315,24 +315,33 @@ plt.show()
 ```
   ### Output:
 
-- Original image:
+## Original image:
+
 <img width="552" height="365" alt="download" src="https://github.com/user-attachments/assets/be36c8a3-fc75-4fdf-b8e1-64eaa36b2d62" />
 
--Segmented ROI:
+
+## Segmented ROI:
+
 <img width="552" height="365" alt="download" src="https://github.com/user-attachments/assets/f5119d99-9999-44f4-96c2-6627acd6775e" />
-- Original image:
+
+## Original image:
+
 <img width="515" height="369" alt="download" src="https://github.com/user-attachments/assets/8e1758d7-a9fe-4cfc-8c43-9b3866d82bf0" />
 
--Canny Edge Detection:
+## Canny Edge Detection:
+
 <img width="515" height="369" alt="download" src="https://github.com/user-attachments/assets/5e33e971-0e10-409d-90c7-87457768553f" />
 
-- Handwriting Detection:
- <img width="515" height="369" alt="download" src="https://github.com/user-attachments/assets/b7acfba3-0757-482f-a01f-f92f5ac54810" />
+## Handwriting Detection:
 
-- Original image:
-  <img width="279" height="502" alt="download" src="https://github.com/user-attachments/assets/e5542900-a7ce-4775-af8e-3307bc4979e0" />
+<img width="515" height="369" alt="download" src="https://github.com/user-attachments/assets/b7acfba3-0757-482f-a01f-f92f5ac54810" />
 
-- Object Detection using MobileNet-SSD:
+## Original image:
+
+<img width="279" height="502" alt="download" src="https://github.com/user-attachments/assets/e5542900-a7ce-4775-af8e-3307bc4979e0" />
+
+## Object Detection using MobileNet-SSD:
+
 <img width="340" height="579" alt="download" src="https://github.com/user-attachments/assets/243bc71a-51bd-4398-b584-2b1b3756dca6" />
 
 ### RESULT
