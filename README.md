@@ -322,7 +322,7 @@ plt.show()
 
 ## Segmented ROI:
 
-<img width="552" height="365" alt="download" src="https://github.com/user-attachments/assets/f5119d99-9999-44f4-96c2-6627acd6775e" />
+<img width="515" height="341" alt="download" src="https://github.com/user-attachments/assets/a19dee34-d456-47fe-8556-61749d73ef4d" />
 
 ## Original image:
 
@@ -330,7 +330,7 @@ plt.show()
 
 ## Canny Edge Detection:
 
-<img width="515" height="369" alt="download" src="https://github.com/user-attachments/assets/5e33e971-0e10-409d-90c7-87457768553f" />
+<img width="515" height="369" alt="download" src="https://github.com/user-attachments/assets/de5e7019-c148-490e-a1de-7d2d8f941146" />
 
 ## Handwriting Detection:
 
